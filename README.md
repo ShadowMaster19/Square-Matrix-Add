@@ -1,4 +1,4 @@
-# Square-Matrix-Add
+# Square-Matrix
 Adding and Handling Square Matrix 
 
 ## SqMatrix: A Java Square Matrix Library

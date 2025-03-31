@@ -1,9 +1,9 @@
 # Square-Matrix
 Adding and Handling Square Matrix 
 
-## SqMatrix: A Java Square Matrix Library
+## SqMatrix: A Java Square Matrix Program
 
-The `SqMatrix` class is a Java library designed to handle square matrices with various operations. This project demonstrates proficiency in object-oriented programming and algorithmic problem-solving.
+The `SqMatrix` class is a Java Program designed to handle square matrices with various operations. This project demonstrates proficiency in object-oriented programming and algorithmic problem-solving.
 
 ### Key Features
 
